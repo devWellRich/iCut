@@ -57,12 +57,6 @@
 
 Integrantes 
 
-Wellington Richard
-Daniel Camilo
-Tulio Inacio
-Matheus Nogueira
-Leander Tampieri
-Lucas Coimbra
-Victor Santos
+Wellington Richard, Daniel Camilo, Tulio Inacio, Matheus Nogueira, Leander Tampieri, Lucas Coimbra, Victor Santos
 
 
