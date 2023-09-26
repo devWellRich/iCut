@@ -21,8 +21,6 @@
 7. *Escolha de Barbeiro:*
    - Os usuários devem poder escolher o barbeiro que realizará o serviço.
 
-8. *Programa de Fidelidade:*
-   - O aplicativo deve acompanhar o número de serviços pagos pelos usuários e conceder um serviço grátis após cada 5 serviços pagos.
 
 *Requisitos Não Funcionais:*
 
